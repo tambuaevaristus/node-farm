@@ -1,0 +1,25 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "learning node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tambuaevaristus/node-farm.git"
+  },
+  "author": "Tambua Evaristus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tambuaevaristus/node-farm/issues"
+  },
+  "homepage": "https://github.com/tambuaevaristus/node-farm#readme",
+  "dependencies": {
+    "slugify": "^1.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
